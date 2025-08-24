@@ -29,7 +29,7 @@ contract BasicEscrow {
      * @dev Initializes the contract with seller address.
      *      The buyer is set as the deployer of the contract.
      *      Initial state is set to Created.
-     */
+     */ 
     constructor(address _seller) {
         buyer = msg.sender;
         seller = _seller;

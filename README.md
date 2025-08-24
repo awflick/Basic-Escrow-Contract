@@ -71,4 +71,5 @@ Part of a series of smart contract warm-up projects building toward advanced Web
 
 ## 📜 License
 
-MIT — free to use, remix, or expand.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
